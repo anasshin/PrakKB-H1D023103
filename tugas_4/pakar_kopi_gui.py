@@ -40,7 +40,7 @@ for widget in mainframe.winfo_children():
 
 # Inisialisasi Prolog
 prolog = Prolog()
-prolog.consult("/home/anas/Projek/PrakKB/pakar-kopi-gui.pl")
+prolog.consult("/home/anas/Projek/PrakKB/tugas_4/pakar-kopi-gui.pl")
 
 # Variabel global
 kopi = []
